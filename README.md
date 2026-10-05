@@ -1,6 +1,7 @@
 ### Hi there 👋
 Stats c/o https://github.com/anuraghazra/github-readme-stats
 
+![Brian's GitHub stats](https://github-stats-extended.vercel.app/api?username=brianbrownton&count_private=true&show_icons=true)]
 ![Brians's github stats](https://github-readme-stats.vercel.app/api?username=brianbrownton&count_private=true&show_icons=true)
 
 
