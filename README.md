@@ -1,9 +1,9 @@
 ### Hi there 👋
-[Stats c/o https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended)
 
-![Brian's GitHub stats](https://github-stats-extended.vercel.app/api?username=brianbrownton&count_private=true&show_icons=true)
+Stats c/o https://github.com/stats-organization/github-stats-extended
 
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=brianbrownton&hide_rank=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=brianbrownton&hide_rank=true&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
 
 
